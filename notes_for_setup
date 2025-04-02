@@ -1,0 +1,3 @@
+pip install selenium
+download chrome driver
+(might need to allow the execution of chromedriver under MacOS; Security and allow chromedriver)
